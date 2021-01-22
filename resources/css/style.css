@@ -1,0 +1,36 @@
+.img {
+  height:100px;
+  widows: 100px;
+} 
+
+body {
+  background-color: rgb(122, 226, 240);
+  padding-top: 70px;
+  display: inline-flex;
+  width: 100%;
+
+}
+h5 {
+  color: blue;
+  font-weight: 100;
+  font-size: 16px;
+}
+.card-text{
+  font-weight: 300;
+  font-style: italic;
+}
+
+p {
+      font-weight: 300;
+    font-style: italic;
+  
+}
+.card h {
+  font-weight: 300;
+  
+}
+.col {
+  float:left;
+  width: 25%;
+  padding: 0 10px;
+}
